@@ -1,10 +1,10 @@
 # 🎵 **YukkiMusic** 🎶
 
-[**YukkiMusic**](https://github.com/TheTeamVivek/YukkiMusic) is an enhanced version of the original [**YukkiMusicBot**](https://github.com/TeamYukki/YukkiMusicBot), optimized for high-quality music streaming in Telegram voice chats. Built with Python and Pyrogram. 🚀
+[**YukkiMusic**](https://github.com/pyaesone-5-usm/YukkiMusic) is an enhanced version of the original [**YukkiMusicBot**](https://github.com/pyaesone-5-usm/YukkiMusicBot), optimized for high-quality music streaming in Telegram voice chats. Built with Python and Pyrogram. 🚀
 
 ## ⭐ Support the Original
 If you're using or forking this project, please show your support by starring the original repo:
-[**YukkiMusicBot**](https://github.com/TeamYukki/YukkiMusicBot)
+[**YukkiMusicBot**](https://github.com/pyaesone-5-usm/YukkiMusicBot)
 
 
 ## 🚀 Quick Deployment Options
@@ -24,7 +24,7 @@ Get started quickly by deploying to Heroku with just one click:
 
   - Activate Virtual Env: `source .venv/bin/activate`
 
-  - Clone the Repository: `git clone https://github.com/TheTeamVivek/YukkiMusic && cd YukkiMusic`
+  - Clone the Repository: `git clone https://github.com/pyaesone-5-usm/YukkiMusic && cd YukkiMusic`
 
   - Install Python Requirements: `pip install -r requirements.txt`
 
@@ -65,9 +65,9 @@ We're here to support you through multiple channels:
 
 Love YukkiMusic? Here's how you can help:
 
-- ⭐ [**Star the YukkiMusicBot Project**](https://github.com/TeamYukki/YukkiMusicBot).
+- ⭐ [**Star the YukkiMusicBot Project**](https://github.com/pyaesone-5-usm/YukkiMusicBot).
 
-- 🍴 [**Fork and and contribute to the this Repository**](https://github.com/TheTeamVivek/YukkiMusic)
+- 🍴 [**Fork and and contribute to the this Repository**](https://github.com/pyaesone-5-usm/YukkiMusic)
 
 - 📢 Share your experience on [**Dev.to**](https://dev.to/), [**Medium**](https://medium.com/), or your **personal blog.**
 
