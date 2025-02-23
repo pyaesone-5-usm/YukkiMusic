@@ -16,17 +16,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21294516",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "3e90489f675513c3679dd08e8c2b2bb3",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token Get it from Botfather",
-        "value": "",
+        "value": "7572329528:AAEHTA0OzkSmjcD0Xa4pdfPb8cNtIZW-_8Q",
         "required": true
       },
       "EXTRA_PLUGINS": {
@@ -36,17 +36,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://maythushar:maythushar@maythushar.b60dt.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1318826936",
         "required": true
       },
       "STRING_SESSIONS": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory. You Can Fill Multiple String Session Seperating With (,) comma",
-        "value": "",
+        "value": "BQFE7bQAJZeOqPH_ETFlXWFM5XjKLZf1k-mGN14TPElkHdaBex5QaN0yc9wpNQFuAv1b7o-6Rxl2NDBPWGVnjEswrpY4mF6gGSYx1YlQcJ_PkAFHMz7cH8sN2NCCj8BB3b26oCl_QQIWmL4E7fn86cOzJbtHN4DP9l88tPoLIwYjhg1ryuFE1Mvdb8k__RtGwiFPVOy4rP5k3ILQpwERQw7Zoo8Fn_OG_FkOd8K59XFs5bwZo2KwQEnQKlOhnX90CCpmfsZTJF4gBQzcolIY2roI4XPjLFT515y4-K4rPw0U92muPZ_UUO3WIW8XiqT5oX_rvwSnESF4OLBq3dw7OFyxH7K-ZwAAAAG363UwAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -61,7 +61,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1002335122520",
         "required": true
       },
       "UPSTREAM_REPO": {
