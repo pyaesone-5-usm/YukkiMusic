@@ -19,17 +19,17 @@ load_dotenv()
 
 # Get it from my.telegram.org
 
-API_ID = int(getenv("API_ID", ""))
+API_ID = int(getenv("API_ID", "21294516"))
 
-API_HASH = getenv("API_HASH")
+API_HASH = getenv("API_HASH", "3e90489f675513c3679dd08e8c2b2bb3")
 
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN", "7572329528:AAEHTA0OzkSmjcD0Xa4pdfPb8cNtIZW-_8Q")
 
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://maythushar:maythushar@maythushar.b60dt.mongodb.net/?retryWrites=true&w=majority")
 
 CLEANMODE_DELETE_MINS = int(
     getenv("CLEANMODE_MINS", "5")
@@ -62,7 +62,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 
 # You'll need a Group ID for this.
-LOG_GROUP_ID = getenv("LOG_GROUP_ID", "")
+LOG_GROUP_ID = getenv("LOG_GROUP_ID", "-1002335122520")
 
 
 # Your User ID.
